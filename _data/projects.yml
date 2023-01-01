@@ -1,0 +1,19 @@
+- title: BmoreTasty
+  link: https://www.bmoretasty.com/
+  description: Blog about food exploration mostly in Baltimore, MD.
+  status: completed
+
+- title: David McDonald
+  link: https://www.daveomcd.com/
+  description: The website you are currently visiting! Built with Jekyll and GitHub pages.
+  status: completed
+
+- title: TribeStats
+  link: https://www.tribestats.com/
+  description: Website created for fans of the TV show Survivor.
+  status: incomplete
+
+- title: Kenneth Rapp
+  link: https://www.kennethhowardrapp.com/
+  description: Dedication to 1st LT Kenneth Howard Rapp. 1929-1953
+  status: incomplete

@@ -1,0 +1,30 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply from-gray-50 bg-gradient-to-r w-full h-full font-sans;
+}
+
+h1#title {
+  @apply font-major-mono-display text-4xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-700 to-gray-400 w-min whitespace-nowrap mx-auto font-black;
+}
+
+h2 {
+  @apply text-2xl w-min whitespace-nowrap font-black mt-8;
+}
+
+#content {
+  @apply mx-auto pt-14 w-2/3
+}
+
+.title {
+  @apply mt-6 text-lg;
+}
+
+.description {
+  @apply text-gray-400 italic;
+}
