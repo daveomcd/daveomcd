@@ -10,7 +10,7 @@ body {
 }
 
 h1#title {
-  @apply font-major-mono-display text-4xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-700 to-gray-400 w-min whitespace-nowrap mx-auto font-black;
+  @apply font-major-mono-display text-4xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-700 to-gray-400 w-min mx-auto font-black;
 }
 
 h2 {
